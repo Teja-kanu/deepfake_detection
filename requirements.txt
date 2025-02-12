@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+pandas
+pillow
+matplotlib
+tqdm
+ffmpeg-python
+tika
+transformers
